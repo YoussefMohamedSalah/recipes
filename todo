@@ -1,0 +1,13 @@
+api key = c1870f0245364945b5f620be06fb954c
+150 time per day
+
+
+npm install framer-motion react-icons react-router-dom styled-components @splidejs/react-splide
+
+// import styled from 'styled-components';
+// import { Splide, SplideSlide } from '@splidejs/react-splide';
+// import '@splidejs/splide/dist/css/splide.min.css';
+
+//api keys 150 request per day each
+// 639d467be9454f4d8452d0a359fcc17e
+// d0699a24f7a744daaf7c3acc5e86da2d
