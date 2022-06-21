@@ -1,15 +1,15 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import styled from 'styled-components';
-import { GiFoodTruck } from 'react-icons/gi';
+import { GiKnifeFork } from 'react-icons/gi';
+// import { GiFoodTruck } from 'react-icons/gi';
 // import { BiDish } from 'react-icons/bi';
 
 function Header() {
   return (
     <Div>
       <SLink to={'/'}>
-        <GiFoodTruck />
-        {/* <BiDish /> */}
+        <GiKnifeFork />
         <h4>Delicious</h4>
       </SLink>
     </Div>
